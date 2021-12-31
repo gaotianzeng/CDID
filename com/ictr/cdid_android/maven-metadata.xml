@@ -3,10 +3,11 @@
   <groupId>com.ictr</groupId>
   <artifactId>cdid_android</artifactId>
   <versioning>
-    <release>1.1.1</release>
+    <release>1.1.4</release>
     <versions>
       <version>1.1.1</version>
+      <version>1.1.4</version>
     </versions>
-    <lastUpdated>20211228110308</lastUpdated>
+    <lastUpdated>20211231101212</lastUpdated>
   </versioning>
 </metadata>
